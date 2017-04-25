@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlagQuizAbdul</string>
+    <string name="action_settings">Settings</string>
+    <string name="question">Question %1$d of %2$d</string>
+</resources>
